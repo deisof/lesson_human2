@@ -1,1 +1,16 @@
-����� demo ����� � ����� master, ������� ��� ����� �� �����������.
+Ветка demo влита в ветку master, поэтому они ничем не различаются.
+
+Я вижу 11 коммитов.
+Комментарии в коммитах на GitHub:
+
+edit hometask.txt
+Создала файл hometsk.txt
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
